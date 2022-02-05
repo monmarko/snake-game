@@ -1,7 +1,7 @@
 from turtle import  Turtle
 import random
 class Food(Turtle):
-    #git test
+    #git test2
     def __init__(self):
         super().__init__()
         self.shape("circle")
